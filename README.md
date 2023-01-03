@@ -6,20 +6,20 @@ Today's student, tomorrow's experienced professional
 
 I am in the process of changing careers and study for a degree in Computer Sciences in the University of Helsinki. I have a Master's degree in Social Services and have worked in NGO-sector for 12 years. I have strong experience with  
 - data management and reporting 
-- writing documentaiton
+- writing documentation
 - working with ICT-stakeholders 
 - managing international partnerships 
  
-Currently I am looking for my first position in the IT. I am interested in positions in which I can 
-- learn good practices on software development
+Currently I am looking for my first position in the ICT-field. I am interested in positions in which I can 
+- learn good practices on software development and team collaboration
 - advance my skills in programming
 - find good career paths going onward
  
-As a person I like to challenge myself and have a desire to find out what I am capable of in different areas of life. From my past career I have received nothing but outstanding reviews on my work performance. I have also received appreciation on my people skills. If you think that I might be a good match for your company, don't hesitate to be in touch!
+As a person I like to challenge myself and have a desire to find out what I am capable of in different areas of life. From my past career I have received nothing but outstanding reviews on my work performance. I have also received appreciation on my people skills. I have good references which I will gladly provide when requested. If you think that I might be a good match for your company, don't hesitate to be in touch!
 
 * 🌍  I'm based in Helsinki, Finland
 * ✉️  You can contact me at [heidi.holappa@helsinki.fi](mailto:heidi.holappa@helsinki.fi)
-* 🧠  I'm learning Javascript
+* 🧠  I'm learning fullstack development (and related technologies)
 
 ### Skills
 
