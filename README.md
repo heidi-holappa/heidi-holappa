@@ -14,7 +14,7 @@ Currently I am looking for my first position in the IT. I am interested in posit
 - advance my skills in programming
 - find good career paths going onward
  
-As a person I am pedantic and work hard, which are reflected in my GPA (5/5). I like to challenge myself and have a desire to find out what I am capable of in different areas of life. From my past career I have received nothing but outstanding reviews on my work performance. I have also received appreciation on my people skills.
+As a person I like to challenge myself and have a desire to find out what I am capable of in different areas of life. From my past career I have received nothing but outstanding reviews on my work performance. I have also received appreciation on my people skills. If you think that I might be a good match for your company, don't hesitate to be in touch!
 
 * 🌍  I'm based in Helsinki, Finland
 * ✉️  You can contact me at [heidi.holappa@helsinki.fi](mailto:heidi.holappa@helsinki.fi)
