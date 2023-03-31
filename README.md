@@ -16,7 +16,7 @@ Currently I am looking for my first position in the ICT-field. I am interested i
 - find good career paths going onward
  
 My Unviersity study-statistics (updated 14th of Jan 2023):
-- Bachelor of Science progression: 138/180
+- Bachelor of Science progression: 142/180
 - GPA: 4.96/5.00
 
 As a person I like to challenge myself and have a desire to find out what I am capable of in different areas of life. From my past career I have received nothing but outstanding reviews on my work performance. I have also received appreciation on my people skills. I have good references which I will gladly provide when requested. If you think that I might be a good match for your company, don't hesitate to be in touch!
