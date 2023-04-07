@@ -59,6 +59,6 @@ As a person I like to challenge myself and have a desire to find out what I am c
 
 ![Heidi's GitHub stats](https://github-readme-stats.vercel.app/api?username=heidi-holappa&show_icons=true&theme=synthwave&count_private=true)
 
-<a href="http://www.github.com/heidi-holappa"><img src="https://github-readme-streak-stats.herokuapp.com/?user=heidi-holappa&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=heidi-holappa&theme=synthwave)](https://git.io/streak-stats)
 
 Profile made with [ProfileMe.Dev](https://www.profileme.dev/create-profile)
