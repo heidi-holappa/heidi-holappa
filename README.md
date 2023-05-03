@@ -23,7 +23,7 @@ As a person I like to challenge myself and have a desire to find out what I am c
 
 * 🌍  I'm based in Helsinki, Finland
 * ✉️  You can contact me at [heidi.holappa@helsinki.fi](mailto:heidi.holappa@helsinki.fi)
-* 🧠  I'm learning fullstack development (and related technologies)
+* 🧠  I'm learning fullstack development (and related technologies) and waiting for my very first SBC with a processor designed for RISC-V. 
 
 ### Skills
 
