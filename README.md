@@ -5,7 +5,7 @@ Today's student, tomorrow's experienced professional
 ----------------------------------------------------
 
 I am in the process of changing careers and study for a degree in Computer Sciences in the University of Helsinki. I have a Master's degree in Social Services and have worked in NGO-sector for 12 years. I have strong experience with  
-- data management and reporting 
+- data management, BI-tools and reporting 
 - writing documentation
 - working with ICT-stakeholders 
 - managing international partnerships 
