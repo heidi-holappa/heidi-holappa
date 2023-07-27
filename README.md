@@ -15,7 +15,7 @@ Currently I am looking for my first position in the ICT-field. I am interested i
 - advance my skills in programming
 - find good career paths going onward
  
-My University study-statistics (updated 28th of April 2023):
+My University study-statistics (updated 27th of July 2023):
 - Bachelor of Science progression: 172/180
 - GPA: 4.97/5.00
 
