@@ -5,14 +5,14 @@ Software developer
 ----------------------------------------------------
 
 Background:
+- BSc in Computer science (GPA 4.92).
+  - MSc in Computer Science ongoing
+  - Focusing on Software development, embedded systems and data structures and algorithms.  
 - MSc in Social Services with 10+ years of experience in the NGO field. Work experience:
   - data management, BI-tools and reporting 
   - project documention
   - cooperation with ICT-stakeholders 
   - international partnerships 
-- Estimation: In Jan 2024 a BSc in Computer Science.  Study-statistics (updated Nov 2023):
-  - Bachelor of Science progression: 177/180
-  - GPA: 4.97/5.00
 
 
 * 🌍  I'm based in Loviisa, Finland
