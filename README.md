@@ -24,6 +24,12 @@ Background:
   * Frameworks such as .NET, Spring Boot
   * embedded systems and 
   * all things RISC-V
+* Geeky facts:
+  * Favorite languages: Python, Java, Haskell, Verilog HDL
+  * Favorite IDE: IntelliJ IDEA
+  * Idols: Alan Turing, Alonzo Church, Edsger Dijkstra, David Patterson and John Hennessy
+ 
+
 
 ### Skills
 
