@@ -4,7 +4,7 @@ Hi 👋 My name is Heidi Holappa
 Software developer
 ----------------------------------------------------
 
-I work for the Finnish Social Insurance Institution with a focus on wellbeing data and resource and authorization services. The technological landscape is diverse and challenging, and the demand to produce secure, reliable quality products is high. I am fortunate to work with a team of motivated and driven specialists working hard to provide as much value to our customers as possible. Some key technologies I work with on daily or weekly basis: Java, Spring Boot, Spring Security, Spring Batch, FHIR HAPI, OpenShift, Atlassian product family. 
+I work for the Finnish Social Insurance Institution with a focus on wellbeing data and resource and authorization services. The technological landscape I work with is diverse and challenging. The demand to produce secure and reliable quality products is high. I am fortunate to work with a team of motivated and driven specialists working hard to provide as much value to our customers as possible. Some key technologies I work with on daily or weekly basis: Java, Spring Boot, Spring Security, Spring Batch, FHIR HAPI, OpenShift, Atlassian product family. 
 
 Background:
 - BSc in Computer science (GPA 4.92).
