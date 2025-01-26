@@ -1,4 +1,4 @@
-Hi 👋 My name is Heidi Holappa
+Heidi Holappa
 ==============================
 
 Backend Software developer
