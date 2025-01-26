@@ -1,39 +1,8 @@
 Hi 👋 My name is Heidi Holappa
 ==============================
 
-Software developer
+Backend Software developer
 ----------------------------------------------------
-
-I work for the Finnish Social Insurance Institution with a focus on wellbeing data and resource and authorization services. The technological landscape I work with is diverse and challenging. The demand to produce secure and reliable quality products is high. I am fortunate to work with a team of motivated and driven specialists working hard to provide as much value to our customers as possible. Some key technologies I work with on daily or weekly basis: Java, Spring Boot, Spring Security, Spring Batch, FHIR HAPI, OpenShift, Atlassian product family. 
-
-Background:
-- BSc in Computer science (GPA 4.92).
-  - MSc in Computer Science ongoing
-  - Focusing on Software development, embedded systems and data structures and algorithms.  
-- MSc in Social Services with 10+ years of experience in the NGO field. Work experience:
-  - data management, BI-tools and reporting 
-  - project documention
-  - cooperation with ICT-stakeholders 
-  - international partnerships 
-
-
-* 🌍  I'm based in Loviisa, Finland
-* ✉️  You can contact me at [heidi.holappa@helsinki.fi](mailto:heidi.holappa@helsinki.fi)
-* 🧠  passionate about
-  * software development
-  * Frameworks such as .NET, Spring Boot
-  * embedded systems and 
-  * all things RISC-V
-* Geeky facts:
-  * Favorite languages: Python, Java, Haskell, Verilog HDL
-  * Favorite IDE: IntelliJ IDEA
-  * Idols: Alan Turing, Alonzo Church, Edsger Dijkstra, David Patterson and John Hennessy
- 
-
-
-### Skills
-
-Languages:  
 
 <p align="left">
 <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
@@ -41,18 +10,10 @@ Languages:
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
 <a href="https://www.r-project.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/rlang-colored.svg" width="36" height="36" alt="rlang" /></a>
 <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="36" height="36" alt="C#" /></a>
-</p>
-
-Frameworks:  
 <a href="https://flask.palletsprojects.com/en/2.0.x/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flask-colored-dark.svg" width="36" height="36" alt="Flask" /></a>
 <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/django-colored-dark.svg" width="36" height="36" alt="Django" /></a>
 </a><a href="https://dotnet.microsoft.com/en-us/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dot-net-colored.svg" width="36" height="36" alt=".NET" /></a>
 </a><a href="https://dotnet.microsoft.com/en-us/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" width="36" height="36" alt=".NET" /></a>
-</p>
-
-Other:
-
-<p align="left">
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a>
 <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a>
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
@@ -64,6 +25,8 @@ Other:
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
 <a href="https://www.heroku.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/heroku-colored.svg" width="36" height="36" alt="Heroku" /></a>
 <a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored-dark.svg" width="36" height="36" alt="Photoshop" /></a>
+<a href="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png"><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png" style="max-width: 100%;" alt="Linux"></a>
+<a href="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png"><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png" style="max-width: 100%;" alt="Ubuntu"></a>
 </p>
 
 
@@ -75,4 +38,4 @@ Other:
 
 ![Heidi's GitHub stats](https://github-readme-stats.vercel.app/api?username=heidi-holappa&show_icons=true&theme=synthwave&count_private=true)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=heidi-holappa&theme=synthwave)](https://git.io/streak-stats)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=heidi-holappa&hide=html,scss,stylus,blade,jupyter%20notebook,python,css,shell,batchfile,dockerfile,typescript&theme=algolia&show_icons=true)](https://github.com/heidi-holappa)
