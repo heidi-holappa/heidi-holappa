@@ -38,4 +38,4 @@ Backend Software developer
 
 ![Heidi's GitHub stats](https://github-readme-stats.vercel.app/api?username=heidi-holappa&show_icons=true&theme=synthwave&count_private=true)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=heidi-holappa&hide=html,scss,stylus,blade,jupyter%20notebook,python,css,shell,batchfile,dockerfile,typescript&theme=algolia&show_icons=true)](https://github.com/heidi-holappa)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=heidi-holappa&hide=html,css,batchfile,dockerfile&theme=algolia&show_icons=true)](https://github.com/heidi-holappa)
