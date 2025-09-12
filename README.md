@@ -1,7 +1,7 @@
 Heidi Holappa
 ==============================
 
-Backend Software developer, with a flavor of Mobile Application development
+90% Backend developer, 10% Mobile Application developer
 ----------------------------------------------------
 
 [![My Skills](https://skillicons.dev/icons?i=java,spring,idea,openshift,jenkins,kubernetes,docker,haskell,py,flask,django,nodejs,react,cs,dotnet,cpp,r,postman,mysql,postgres,git,ubuntu,bash,latex)](https://skillicons.dev)
