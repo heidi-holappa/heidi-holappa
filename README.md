@@ -1,7 +1,7 @@
 Heidi Holappa
 ==============================
 
-Backend developer. Salaryman. 
+Backend developer
 ----------------------------------------------------
 Solve. Ship. Improve. Repeat.  
 Build fast. Build to last.
