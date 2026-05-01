@@ -8,7 +8,7 @@ ATS / CTC systems.
 Java, OSGi, real-time, safety-critical.  
 Long-lived systems, built to last.  
 
-[![My Skills](https://skillicons.dev/icons?i=java,spring,osgi,idea,openshift,jenkins,kubernetes,docker,haskell,py,flask,django,nodejs,react,cs,dotnet,cpp,r,postman,mysql,postgres,git,ubuntu,bash,latex)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,spring,idea,openshift,jenkins,kubernetes,docker,podman,haskell,py,flask,django,nodejs,react,cs,dotnet,cpp,r,postman,mysql,postgres,git,ubuntu,bash,latex)](https://skillicons.dev)
 
 
 ### Socials
