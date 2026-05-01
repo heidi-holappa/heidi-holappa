@@ -1,10 +1,12 @@
 Heidi Holappa
 ==============================
 
-Backend developer
+Software developer
 ----------------------------------------------------
-Solve. Ship. Improve. Repeat.  
-Build fast. Build to last.
+Rail safety software engineer.  
+ATS / CTC systems.  
+Java, OSGi, real-time, safety-critical.  
+Long-lived systems, built to last.  
 
 [![My Skills](https://skillicons.dev/icons?i=java,spring,idea,openshift,jenkins,kubernetes,docker,haskell,py,flask,django,nodejs,react,cs,dotnet,cpp,r,postman,mysql,postgres,git,ubuntu,bash,latex)](https://skillicons.dev)
 
